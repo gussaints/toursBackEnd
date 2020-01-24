@@ -1,12 +1,13 @@
-const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
-const autoPop = require('mongoose-autopopulate');
+import { Schema as _Schema, model } from 'mongoose';
+const Schema = _Schema;
+import autoPop from 'mongoose-autopopulate';
+
 
 let usuarioAppSchema = new Schema({
     name: { type: String },
     lastname: { type: String },
     email: { type: String, unique: true },
-    role: { type: mongoose.Schema.Types.ObjectId, ref: 'roles', autopopulate: true },
+    role: { type: _Schema.Types.ObjectId, ref: 'roles', autopopulate: true },
     fechaAlta: { type: Date },
     telefono: { type: String },
     sexo: { type: String },
@@ -16,5 +17,5 @@ let usuarioAppSchema = new Schema({
 });
 
 usuarioAppSchema.plugin(autoPop);
-let myschema = mongoose.model('usuarioapp', usuarioAppSchema);
-module.exports = myschema;
+let myschema = model('usuarioapp', usuarioAppSchema);
+export default myschema;

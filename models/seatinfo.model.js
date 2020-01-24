@@ -1,12 +1,13 @@
-const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
-const autoPop = require('mongoose-autopopulate');
+import { Schema as _Schema, model } from 'mongoose';
+const Schema = _Schema;
+import autoPop from 'mongoose-autopopulate';
+
 
 let seatinfoSchema = new Schema({
     numeroAsiento: { type: Number },
     nombreOcupante: { type: String },
     apellidoOcupante: { type: String },
-    vendedor: { type: mongoose.Schema.Types.ObjectId, ref: 'usuarioapp', autopopulate: true },
+    vendedor: { type: _Schema.Types.ObjectId, ref: 'usuarioapp', autopopulate: true },
     vendido: { type: Boolean },
     destino: { type: String },
     fechaViaje: { type: Date },
@@ -16,10 +17,10 @@ let seatinfoSchema = new Schema({
     telefonoComprador: { type: String },
     nombreComprador: { type: String },
     apellidoComprador: { type: String },
-    usuario: { type: mongoose.Schema.Types.ObjectId, ref: 'usuarioapp', autopopulate: true },
+    usuario: { type: _Schema.Types.ObjectId, ref: 'usuarioapp', autopopulate: true },
     fechaCompra: { type: Date }
 });
 
 seatinfoSchema.plugin(autoPop);
-let myschema = mongoose.model('seatinfo', seatinfoSchema);
-module.exports = myschema;
+let myschema = model('seatinfo', seatinfoSchema);
+export default myschema;

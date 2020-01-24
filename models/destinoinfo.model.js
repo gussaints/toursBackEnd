@@ -1,5 +1,6 @@
-const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
+import { Schema as _Schema, model } from 'mongoose';
+const Schema = _Schema;
+
 
 let destinoSchema = new Schema({
     namecity: { type: String, unique: true },
@@ -7,5 +8,5 @@ let destinoSchema = new Schema({
     namecountry: { type: String }
 });
 
-let myschema = mongoose.model('destinoinfo', destinoSchema);
-module.exports = myschema;
+let myschema = model('destinoinfo', destinoSchema);
+export default myschema;

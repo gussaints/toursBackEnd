@@ -1,0 +1,217 @@
+[{
+        "description": "Miami, USA",
+        "type": "Point",
+        "coordinates": [-80.185942, 25.774772],
+        "address": "Bayfront Park Path, Miami, FL 33132, EE. UU."
+    },
+    {
+        "description": "Lummus Park Beach",
+        "type": "Point",
+        "coordinates": [-80.128473, 25.781842],
+        "address": "Miami Beach - South Beach, Miami Beach, Florida 33139, EE. UU."
+    },
+    {
+        "description": "Islamorada",
+        "type": "Point",
+        "coordinates": [-80.647885, 24.909047],
+        "address": "80461 Overseas Hwy, Islamorada, FL 33036, Estados Unidos"
+    },
+    {
+        "description": "Sombrero Beach",
+        "type": "Point",
+        "coordinates": [-81.0784, 24.707496],
+        "address": "600-2656 Manor Ln, Marathon, FL 33050, EE. UU."
+    },
+    {
+        "description": "West Key",
+        "type": "Point",
+        "coordinates": [-81.768719, 24.552242],
+        "address": "S Roosevelt Blvd, Key West, FL 33040, Estados Unidos"
+    },
+    {
+        "description": "Banff, CAN",
+        "type": "Point",
+        "coordinates": [-115.570154, 51.178456],
+        "address": "224 Banff Ave, Banff, AB, Canada"
+    },
+    {
+        "description": "Banff National Park",
+        "type": "Point",
+        "coordinates": [-116.214531, 51.417611],
+        "address": "111 Lake Louise Dr, Lake Louise, AB T0L 1E0, Canadá"
+    },
+    {
+        "description": "Jasper National Park",
+        "type": "Point",
+        "coordinates": [-118.076152, 52.875223],
+        "address": "Jasper, Alberta, Canadá"
+    },
+    {
+        "description": "Glacier National Park of Canada",
+        "type": "Point",
+        "coordinates": [-117.490309, 51.261937],
+        "address": "Meeting of the Waters Trail, Glacier, BC, Canadá"
+    },
+    {
+        "description": "Aspen, USA",
+        "type": "Point",
+        "coordinates": [-106.822318, 39.190872],
+        "address": "419 S Mill St, Aspen, CO 81611, USA"
+    },
+    {
+        "description": "Aspen Highlands",
+        "type": "Point",
+        "coordinates": [-106.855385, 39.182677],
+        "address": "Aspen, Colorado 81611, EE. UU."
+    },
+    {
+        "description": "Beaver Creek",
+        "type": "Point",
+        "coordinates": [-106.516623, 39.60499],
+        "address": "76 Avondale Ln, Beaver Creek, CO 81620, EE. UU."
+    },
+    {
+        "description": "Las Vegas, USA",
+        "type": "Point",
+        "coordinates": [-115.172652, 36.110904],
+        "address": "3663 S Las Vegas Blvd, Las Vegas, NV 89109, USA"
+    },
+    {
+        "description": "Zion Canyon National Park",
+        "type": "Point",
+        "coordinates": [-112.987418, 37.198125],
+        "address": "Springdale, Hurricane, Utah 84737, EE. UU."
+    },
+    {
+        "description": "Antelope Canyon",
+        "type": "Point",
+        "coordinates": [-111.376161, 36.86438],
+        "address": "Page Unified District, Arizona, EE. UU."
+    },
+    {
+        "description": "Grand Canyon National Park",
+        "type": "Point",
+        "coordinates": [-112.115763, 36.058973],
+        "address": "Grand Canyon Village, Arizona 86023, EE. UU."
+    },
+    {
+        "description": "Joshua Tree National Park",
+        "type": "Point",
+        "coordinates": [-116.107963, 34.011646],
+        "address": "Desert Sands Unified School District, California, EE. UU."
+    },
+    {
+        "description": "NYC, USA",
+        "type": "Point",
+        "coordinates": [-73.985141, 40.75894],
+        "address": "Manhattan, NY 10036, USA"
+    },
+    {
+        "description": "New York",
+        "type": "Point",
+        "coordinates": [-73.967696, 40.781821],
+        "address": "Great Lawn Oval, New York, NY 10024, EE. UU."
+    },
+    {
+        "description": "Los Angeles",
+        "type": "Point",
+        "coordinates": [-118.324396, 34.097984],
+        "address": "Hollywood, Los Ángeles, California 90028, EE. UU."
+    },
+    {
+        "description": "San Francisco",
+        "type": "Point",
+        "coordinates": [-122.408865, 37.787825],
+        "address": "335 Powell St, San Francisco, CA 94102, Estados Unidos"
+    },
+    {
+        "description": "California, USA",
+        "type": "Point",
+        "coordinates": [-118.803461, 34.006072],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+    },
+    {
+        "description": "Point Dume Beach",
+        "type": "Point",
+        "coordinates": [-118.809361, 34.003098],
+        "address": "Westward Beach Rd, Malibu, CA 90265, EE. UU."
+    },
+    {
+        "description": "Venice Skate Park",
+        "type": "Point",
+        "coordinates": [-118.47549, 33.987367],
+        "address": "Venice Way, Venice, CA 90291, EE. UU."
+    },
+    {
+        "description": "San Diego Skydive",
+        "type": "Point",
+        "coordinates": [-116.830104, 33.022843],
+        "address": "Ramona, California 92065, EE. UU."
+    },
+    {
+        "description": "Kern River Rafting",
+        "type": "Point",
+        "coordinates": [-118.4547, 35.710359],
+        "address": "474-480 Sierra Vista Dr, Wofford Heights, CA 93285, EE. UU."
+    },
+    {
+        "description": "Yosemite National Park",
+        "type": "Point",
+        "coordinates": [-119.600492, 37.742371],
+        "address": "Northside Dr, Yosemite Valley, CA 95389, EE. UU."
+    },
+    {
+        "description": "Utah, USA",
+        "type": "Point",
+        "coordinates": [-109.55099, 37.283469],
+        "address": "Bluff, UT 84512, USA"
+    },
+    {
+        "description": "Natural Bridges National Monument",
+        "type": "Point",
+        "coordinates": [-109.99953, 37.629017],
+        "address": "Condado de San Juan, Utah, EE. UU."
+    },
+    {
+        "description": "Horseshoe Bend",
+        "type": "Point",
+        "coordinates": [-111.50954, 36.883269],
+        "address": "Page Unified District, Arizona, EE. UU."
+    },
+    {
+        "description": "Death Valley National Park",
+        "type": "Point",
+        "coordinates": [-117.07399, 36.501435],
+        "address": "Death Valley Unified School District, California, EE. UU."
+    },
+    {
+        "description": "Yellowknife, CAN",
+        "type": "Point",
+        "coordinates": [-114.406097, 62.439943],
+        "address": "Yellowknife, NT X1A 2L2, Canada"
+    },
+    {
+        "description": "California, USA",
+        "type": "Point",
+        "coordinates": [-122.29286, 38.294065],
+        "address": "560 Jefferson St, Napa, CA 94559, USA"
+    },
+    {
+        "description": "Beringer Vineyards",
+        "type": "Point",
+        "coordinates": [-122.479887, 38.510312],
+        "address": "2000 Main St, St Helena, CA 94574, EE. UU."
+    },
+    {
+        "description": "Clos Pegase Winery & Tasting Room",
+        "type": "Point",
+        "coordinates": [-122.582948, 38.585707],
+        "address": "1816-1820 Grant St, Calistoga, CA 94515, EE. UU."
+    },
+    {
+        "description": "Raymond Vineyard and Cellar",
+        "type": "Point",
+        "coordinates": [-122.434697, 38.482181],
+        "address": "St. Helena, California 94574, EE. UU."
+    }
+]
